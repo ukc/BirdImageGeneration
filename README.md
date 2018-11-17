@@ -1,5 +1,5 @@
 This repository contains Deep convolutional generative adversarial networks (DCGAN) code for Bird images generation. 
-The model is trained on Caltech-UCSD Birds-200-2011 dataset. Bird images are generated from random noise using trained generative network.
+The model is trained on [Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset. Bird images are generated from random noise using trained generative network.
 
 
 Points:
